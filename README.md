@@ -8,3 +8,5 @@ This is a legal discord bot which does not introduce real money.
 
 `Please do not sell this project or use it commercially without permission.`
 `Credit is required.`
+
+`My discord username is: 5xyyyy`
