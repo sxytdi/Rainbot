@@ -6,7 +6,7 @@ This is a Discord Bot I made a few days ago for my discord server, I got bored o
 What is Rainbot? Rainbot is a Discord Bot inspired by the gambling website Rainbet.
 This is a legal discord bot which does not introduce real money.
 
-`Please do not sell this project or use it commercially without permission.`
+`Please do not sell this project.`
 `Credit is required.`
 
 `My discord username is: 5xyyyy`
